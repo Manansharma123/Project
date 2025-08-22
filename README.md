@@ -2,7 +2,7 @@
 
 A sophisticated RAG-based AI assistant built with Streamlit that supports document analysis, web search, and hybrid modes for comprehensive information retrieval.
 
-**Developed by:** Aadarsh Vani - Gen AI Data Scientist
+
 
 ## Features
 
